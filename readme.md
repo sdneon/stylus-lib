@@ -1,7 +1,7 @@
 # Stylus Library (Java)
 ## _Stylus Pressure Input for Java, corresponding **library** for **stylus-jni**_
 
-This is my corresponding **_mod_** for [stylus-jni mod](https://github.com/sdneon/stylus-lib).
+This is my corresponding **_mod_** for [stylus-jni mod](https://github.com/sdneon/stylus-jni).
 
 It adds attributes for keyboard modifiers, i.e. ALT, SHIFT, and CONTROL keys.
 
@@ -26,6 +26,8 @@ public void onCursorChange(StylusEvent event) {
 	}
 }
 ```
+
+Alternatively, see my [stylus-sample app](https://github.com/sdneon/stylus-sample).
 
 ## Thanks
 
